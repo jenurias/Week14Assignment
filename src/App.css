@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.star input[type="radio"] {
+  display: none;
+}
+
+.background {
+  background-color: rgb(213, 213, 219);
+}
